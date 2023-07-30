@@ -1,0 +1,95 @@
+.catalogue,
+.trang-6-child {
+  position: absolute;
+  top: 130px;
+}
+.catalogue {
+  left: 109px;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 678px;
+  height: 166px;
+}
+.trang-6-child {
+  left: 149px;
+  border-radius: var(--br-56xl-5);
+  width: 597px;
+  height: 151px;
+}
+.dn-trang-thit {
+  position: absolute;
+  top: 177px;
+  left: 831px;
+  font-family: var(--font-libre-baskerville);
+}
+.home5 {
+  position: absolute;
+  top: 13px;
+  left: 42px;
+  display: inline-block;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-22-button5 {
+  position: absolute;
+  top: 51px;
+  left: 1277px;
+  background-color: var(--color-khaki-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 250px;
+  height: 75px;
+  font-family: var(--font-gravitas-one);
+}
+.div8 {
+  position: absolute;
+  top: -7px;
+  left: 51px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.frame-21-button10 {
+  position: absolute;
+  top: 51px;
+  left: 1017px;
+  background-color: var(--color-khaki-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 202px;
+  height: 71px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-hammersmith-one);
+}
+.floral-catalog-01-page-0001-1 {
+  position: absolute;
+  top: 371px;
+  left: 149px;
+  width: 448px;
+  height: 574px;
+  object-fit: cover;
+}
+.floral-catalog-11-page-0001-1,
+.floral-catalog-12-page-0001-1 {
+  position: absolute;
+  top: 371px;
+  left: 676px;
+  width: 463px;
+  height: 574px;
+  object-fit: cover;
+}
+.floral-catalog-12-page-0001-1 {
+  left: 1219px;
+  width: 434px;
+}
+.trang-6 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-oleo-script-swash-caps);
+}

@@ -1,0 +1,118 @@
+.backging,
+.trang-5-child {
+  position: absolute;
+  top: 92px;
+}
+.trang-5-child {
+  left: 137px;
+  border-radius: var(--br-56xl-5);
+  background-color: var(--color-gray-300);
+  width: 597px;
+  height: 151px;
+}
+.backging {
+  left: 97px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-oleo-script-swash-caps);
+  display: inline-block;
+  width: 678px;
+  height: 166px;
+}
+.bao-b-sn {
+  position: absolute;
+  top: 150px;
+  left: 775px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-libre-baskerville);
+}
+.thng-hiu1 {
+  margin-block-start: 0;
+  margin-block-end: 42px;
+}
+.chawan {
+  margin: 0;
+}
+.home4,
+.thng-hiu-chawan-container {
+  position: absolute;
+  display: inline-block;
+}
+.thng-hiu-chawan-container {
+  top: 523px;
+  left: 1217px;
+  font-family: var(--font-libre-bodoni);
+  width: 598px;
+  height: 557px;
+}
+.home4 {
+  top: 13px;
+  left: 42px;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-21-button8,
+.frame-22-button4 {
+  position: absolute;
+  top: 58px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.frame-22-button4 {
+  left: 1295px;
+  background-color: var(--color-khaki-100);
+  width: 250px;
+  height: 75px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-gravitas-one);
+}
+.frame-21-button8 {
+  left: 1035px;
+  background-color: var(--color-khaki-300);
+  width: 202px;
+  height: 71px;
+}
+.div6 {
+  position: absolute;
+  top: -4px;
+  left: 86px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.frame-21-button9 {
+  position: absolute;
+  top: 60px;
+  left: 1603px;
+  background-color: var(--color-khaki-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 242px;
+  height: 71px;
+}
+.div7 {
+  position: absolute;
+  top: 51px;
+  left: 1086px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.thiet-ke-bao-bi-1-icon {
+  position: absolute;
+  top: 357px;
+  left: 339px;
+  width: 826px;
+  height: 539px;
+  object-fit: cover;
+}
+.trang-5 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-hammersmith-one);
+}
